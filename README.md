@@ -1,3 +1,6 @@
+
+
+
 # 🛒 Store Sales & Customer Behavior Analysis Dashboard  
 
 ---
@@ -16,10 +19,10 @@ It provides visual analytics on sales performance, customer demographics, and pr
 ## ❓ **Problem Statement**
 Businesses often struggle to understand **what drives their sales performance** and **how customers behave** across products and regions.  
 This project aims to solve that by visualizing critical KPIs such as:
-- Total Revenue and Profit
-- Top Products and Categories
-- Customer Retention and Repeat Behavior
-- Profit Margin and Regional Trends
+- Total Revenue and Profit  
+- Top Products and Categories  
+- Customer Retention and Repeat Behavior  
+- Profit Margin and Regional Trends  
 
 ---
 
@@ -70,7 +73,7 @@ This project aims to solve that by visualizing critical KPIs such as:
 - Filters → Category, Product, Location  
 
 **Screenshot:**  
-![Sales Page]([sales%20page.png](https://github.com/kailaskakde/Store-sales-and-Customer-Behavier-using-powerBI/blob/main/Screen%20Short/sales%20page.png))
+![Sales Overview Page](https://github.com/kailaskakde/Store-sales-and-Customer-Behavier-using-powerBI/blob/main/Screen%20Short/sales%20page.png)
 
 ---
 
@@ -85,7 +88,7 @@ This project aims to solve that by visualizing critical KPIs such as:
 - Filters → Region, Product, Category  
 
 **Screenshot:**  
-![Customer Page](https://github.com/kailaskakde/Store-sales-and-Customer-Behavier-using-powerBI/tree/main/Screen%20Short)
+![Customer Insights Page](https://github.com/kailaskakde/Store-sales-and-Customer-Behavier-using-powerBI/blob/main/Screen%20Short/customer%20page.png)
 
 ---
 
