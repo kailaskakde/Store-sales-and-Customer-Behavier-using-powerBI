@@ -85,7 +85,7 @@ This project aims to solve that by visualizing critical KPIs such as:
 - Filters → Region, Product, Category  
 
 **Screenshot:**  
-![Customer Page]()
+![Customer Page](https://github.com/kailaskakde/Store-sales-and-Customer-Behavier-using-powerBI/tree/main/Screen%20Short)
 
 ---
 
